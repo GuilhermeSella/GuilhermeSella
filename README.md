@@ -1,48 +1,29 @@
-<h1 align="left">Hey 👋 What's up?</h1>
 
-###
+# Olá! 👋
 
-<p align="left">My name is Guilherme Sella I am 18 years old and I am a Full Stack Developer.</p>
+Eu sou Guilherme Sella, um desenvolvedor de software fullstack. 😆
 
-###
+🚀 Desenvolvedor Fullstack na Ativo Soluções Digitais - Trabalhando no desenvolvimento de uma plataforma de checkouts personalizados para lojas online. Meu papel envolve a criação de recursos tanto no frontend quanto no backend, garantindo uma experiência fluida e personalizada para os usuários.
 
-<h2 align="left">💻 I code with</h2>
+<br>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+**Atualmente trabalho com:**
+<div style="display: inline_block,">
+  <img align="center"  height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center"  height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center"  height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center"  height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center"  height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
 </div>
 
-###
+<br>
 
-<h2 align="left">🌐 Connect</h2>
-
-###
-
-<div align="left">
-   <a href="https://www.linkedin.com/in/guilherme-sella-588390273/">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-   </a>
-</div>
 
 ###
 
-<h2 align="left">📊 GitHub Stats:</h2>
+**Contato:** 
 
-###
+📧 Email: guilhermesella1974@gmail.com <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeSella&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=GuilhermeSella&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+🔗 LinkedIn: https://www.linkedin.com/in/guilherme-sella/ <br>
 
-###
