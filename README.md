@@ -1,13 +1,8 @@
 # Olá! 👋
 
-Sou Guilherme Sella, desenvolvedor fullstack com foco em aplicações web escaláveis, utilizando principalmente **TypeScript**, **React**, **Next.js**, **Node.js** e **NestJS**.
+Sou Guilherme Sella, desenvolvedor fullstack com foco em aplicações escaláveis e de alta performance, utilizando principalmente TypeScript, Node.js, NestJS, React e Next.js.
 
-Atualmente trabalho na **Ativo**, onde contribuo em dois projetos:
-
-- **Ativo Checkout**: plataforma de checkouts personalizados para lojas Shopify  
-- **Ativo**: infraestrutura de pagamentos modular e em produção
-
-Atuo no desenvolvimento de funcionalidades críticas, refatorações estruturais, definição de padrões e melhorias contínuas no código, tanto no front quanto no back-end.
+Atualmente trabalho na Loomi, atuando como desenvolvedor backend no projeto Copastur Events, uma plataforma completa criada para gerenciar a experiência de participantes do SXSW (South by Southwest) em Austin, Texas — um dos maiores eventos de inovação e tecnologia do mundo.
 
 ---
 
